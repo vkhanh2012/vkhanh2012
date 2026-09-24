@@ -46,6 +46,12 @@ A system analysis and design project for managing customers, computer stations, 
 - Analyzed system users, functions, business rules, and data flows.
 - Created Functional Decomposition, DFD, and ERD diagrams.
 
+### Organic E-commerce Website (Shopery)
+
+Developed responsive web pages using HTML, Tailwind CSS, and JavaScript, following Figma designs.
+Implemented and tested product filtering, Wishlist, form validation, and localStorage functionalities.
+Performed UI, responsive, accessibility, and cross-browser testing; used Chrome DevTools and Lighthouse to identify and fix issues.
+
 ## Education
 
 **Bachelor of Management Information Systems**  
